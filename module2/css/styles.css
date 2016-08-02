@@ -55,8 +55,8 @@
 
 .headWrap{
 	float:right;
-	border-left:2px solid #012631;
-	border-bottom:2px solid #012631;
+	border-left:1px solid black;
+	border-bottom:1px solid black;
 	width: 150px;
 	height:30px;
 	text-align: center;
@@ -65,9 +65,11 @@
 
 .headWrap h2{
 	margin:0px;
+	font-size: 125%;
+	padding: 4px;
 }
 .wrapper{
-	border:2px solid #012631;
+	border:1px solid black;
 	width:100%;
 	background-color: #326D7D;
 	padding:0px;
@@ -81,5 +83,6 @@ p{
 h1{
 	text-align: center;
 	color: #0A404F;
+	font-size: 175%;
 }
 
